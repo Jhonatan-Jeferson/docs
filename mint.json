@@ -188,6 +188,12 @@
         "api-reference/endpoint/apps/status-all",
         "api-reference/endpoint/service/status",
         {
+          "group": "Database",
+          "pages": [
+            "api-reference/endpoint/databases/create"
+          ]
+        },
+        {
           "group": "Application",
           "pages": [
             "api-reference/endpoint/apps/info",

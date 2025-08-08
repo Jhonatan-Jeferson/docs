@@ -191,6 +191,7 @@
           "group": "Database",
           "pages": [
             "api-reference/endpoint/databases/create",
+            "api-reference/endpoint/databases/status",
             "api-reference/endpoint/databases/delete"
           ]
         },
